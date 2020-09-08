@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: mycontainer
-    image: docker.io/httpd
+    image: docker.io/jwick6693/app1.2
     ports:
      - containerPort: 80
