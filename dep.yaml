@@ -15,5 +15,5 @@ spec:
         app: nginx    
   spec:
       containers:
-      - name: app
+      - name: website
         image: docker.io/jwick6693/app1.2
